@@ -1,30 +1,29 @@
 # site settings
 
-title: cvless
-description: Jekyll theme for a beautiful online CV
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
-url: https://cvless.netlify.app
+title: Diogo Freire
+description: Website for Diogo Freire, from Papamoa NZ
+taglong: Product/Project Manager and Weightlifter
+tagshort: Product/Project Manager and Weightlifter
+url: https://diogofreire.com
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
 
 # author settings
 
 author:
-  name: Place Holder
-  email: username@domain.com
-photo: /assets/jpg/photo.jpg
+  name: 
+  email: me@diogofreire.com
+photo: /assets/jpg/diogo_freire.jpeg
 
 # social media links
 
 social:
-  facebook: username
-  github: username
-  instagram: username
-  linkedin: username
-  stackoverflow: 0000000/username
-  twitter: username
+  #facebook: username
+  #github: username
+  instagram: diogo.lifts.things
+  linkedin: diogofreire
+  #stackoverflow: 0000000/username
+  #twitter: username
 
 # build settings
 
